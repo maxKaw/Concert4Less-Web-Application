@@ -1,6 +1,6 @@
 # Convert4Less Web application
 
-University project. Achieved grade 95%.
+University project. Achieved grade 97%.
 
 ## Details of the task
 In this assignment, you are required to implement a dynamic web application for the Concert management system, which will allow users to search for concerts, according to various search criteria. The search functionality should be as flexible as possible. The web app should allow users to register and log in and provide them with an account page with their relevant details which can be edited.
