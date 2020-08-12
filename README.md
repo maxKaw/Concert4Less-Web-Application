@@ -1,4 +1,4 @@
-# Convert4Less Website
+# Convert4Less Web application
 
 University project. Achieved grade 95%.
 
@@ -17,3 +17,11 @@ The client-side user interface should utilise any appropriate front-end web fram
 You will be marked on non-functional aspects of your website as well as on its functionality. Marks are available for accessibility, responsiveness and validation of user input. Using AJAX/JSON to enable partial page updates can also allow higher marks to be achieved. Good coding style also carries some marks (all coding should be your own). You should strive to allow maximum flexibility for the user to search for relevant books according to their needs.
 
 
+## Screenshots of the web application
+
+<img src="Screenshots/screenshot1.png"></img>
+<img src="Screenshots/screenshot2.png"></img>
+<img src="Screenshots/screenshot3.PNG"></img>
+<img src="Screenshots/screenshot4.PNG" height="580" width="310"></img>
+<img src="Screenshots/screenshot5.PNG" height="580" width="310"></img>
+<img src="Screenshots/screenshot6.png" height="580" width="310"></img>
