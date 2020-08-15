@@ -3,7 +3,7 @@ include __DIR__ . '/elements/master.php';
 ?>
 <div style="text-align: center;" class="container">
 <div id="advanceSearch">
-<h2>Advance search for a concert</h2>
+<h2>Advanced search for a concert</h2>
 <div class="panel panel-default">
 <div class="panel-body">
 	<form>
